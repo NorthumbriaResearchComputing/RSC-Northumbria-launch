@@ -1,4 +1,4 @@
-# ✨ Northumbria Research Software Community Launch event ✨
+# ✨ Northumbria Research Computing Community Launch event ✨
 
 ## ❓What is it?
 
@@ -8,15 +8,16 @@ A draft timetable for the event is below. Lunch will be provided.
 
 This event has been financially supported by the [Software Sustainability Institute](https://www.software.ac.uk/).
 
-| Time | Description |
-|-----|-----|
-| 10:00 | Welcome |
-| 10:15 | Keynote: "A wonderful talk" by A. Great. Speaker |
-| 11:00 | break |
-|11:15 | Tips for the beginner Research Software Engineer |
-| 12:00 | break |
-| 12:15 | Flash presentations |
-| 12:45 | lunch and networking |
+| Time | Description | Presenter |
+|-----|-----|----|
+| 10:00 | Welcome | Organising team |
+| 10:15 | Keynote | [Mike Croucher](https://walkingrandomly.com/?page_id=2) |
+| 11:00 | break | |
+|11:15 | IT at Northumbria | |
+|11:30 | Selfish and not-so-selfish reasons for sharing your code| Craig Warren and Lucy Whalley |
+| 12:00 | break | |
+| 12:15 | Flash presentations | You? |
+| 12:45 | lunch and networking |  |
 
 ## 🧑‍🤝‍🧑 Who is it for? 
 
@@ -28,7 +29,7 @@ Yes! We are organising 3 minute flash presentations and we would like to have co
 
 ## ⏰ When is it? 
 
-10am-2pm, 45th of October 2021.
+10am-2pm, Thursday 21st of October 2021.
 
 ## 🏛️ Where is it? 
 
