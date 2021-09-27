@@ -37,7 +37,7 @@ This event has been financially supported by the [Software Sustainability Instit
 
 Yes! 
 
-A key aspect of this event is learning about the breadth of research software that is developed, maintained and used at Northumbria. So we would love to have contributions from across the university and career stages. You are very much welcome to present work in progress, or provide a general overview of how you use research computing for your research and/or teaching.
+A key aspect of this event is learning about the breadth of research software that is developed, maintained and used at Northumbria. To achieve this we will have a sereis of flash presentations, and we would like to have contributions from across the university deparments and across career stages. You are very much welcome to present work in progress, or provide a general overview of how you use research computing for your research and/or teaching.
 
 Perhaps you have written a piece of code you would like to share? Perhaps you have been teaching programming and have some resources to highlight? Perhaps you have a wild idea for the future and would like an audience to pass it by? All are welcome, aslong as they relate somehow to research computing..
 
