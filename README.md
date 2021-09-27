@@ -33,7 +33,7 @@ This event has been financially supported by the [Software Sustainability Instit
 | 12:15 | Flash presentations | 
 | 12:45 | Break-out discussion tables and lunch | 
 
-The organising team for this event are: Craig Warren (MCE), Rahul Sharma (MPEE), Richard Morton (MPEE) and Lucy Whalley (MPEE). 
+The organising team for this event are: [Craig Warren](https://www.northumbria.ac.uk/about-us/our-staff/w/craig-warren/) (MCE), [Rahul Sharma](https://es.linkedin.com/in/rahul-sharma-737075b2) (MPEE), [Richard Morton](https://www.northumbria.ac.uk/about-us/our-staff/m/richard-morton/) (MPEE) and [Lucy Whalley](https://lucydot.github.io) (MPEE). 
 
 ## 📢 Can I contribute? 
 
