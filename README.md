@@ -33,6 +33,8 @@ This event has been financially supported by the [Software Sustainability Instit
 | 12:15 | Flash presentations | 
 | 12:45 | Break-out discussion tables and lunch | 
 
+The organising team for this event are: Craig Warren (MCE), Rahul Sharma (MPEE), Richard Morton (MPEE) and Lucy Whalley (MPEE). 
+
 ## 📢 Can I contribute? 
 
 Yes! 
