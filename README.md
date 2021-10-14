@@ -51,9 +51,13 @@ Presentations must be on a single (unanimated) slide, or web-browser based (for 
 
 ## 🏛️ Where is it? 
 
-The Hedley Suite, Northumbria University.
+The Hedley Suite (4th floor of Sanderson building), Northumbria University.
 
 ## ✏️ Sign me up! 
 
 To attend this event please [sign-up here](https://forms.office.com/r/qWrtELfdtH). If you have any questions, please contact [rahul4.sharma@northumbria.ac.uk](mailto:rahul4.sharma@northumbria.ac.uk).
+
+## 😞 Oh I'm busy with something else that day
+
+Our plan is to record the talks and make this publicly available. Hopefully there will also be future events and possibly a mailing list.  If you'd like to be kept informed, please contact us to register interest.
 
