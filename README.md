@@ -22,16 +22,15 @@ Over lunch (which is provided) we will have discussion tables to explore various
 
 This event has been financially supported by the [Software Sustainability Institute](https://www.software.ac.uk/).
 
-| Time | Description | 
-|-----|-----|
-| 10:00 | Welcome from the organising team |
-| 10:15 | Keynote (title TBC) - [Mike Croucher](https://walkingrandomly.com/?page_id=2), MathWorks |
+| Time | Description | Link |
+|-----|-----|-----|
+| 10:00 | Welcome from the organising team | - |
+| 10:15 | Keynote (title TBC) - [Mike Croucher](https://walkingrandomly.com/?page_id=2), MathWorks | [link](https://mikecroucher.github.io/northumbria_rse/) |
 | 11:00 | break |
-|11:15 | IT at Northumbria (TBC) |
-|11:30 | Some selfish and not-so-selfish reasons for sharing your code - [Lucy Whalley](https://lucydot.github.io), Northumbria University |
-| 12:00 | break | 
-| 12:15 | Flash presentations | 
-| 12:45 | Break-out discussion tables and lunch | 
+|11:15 | Some selfish and not-so-selfish reasons for sharing your code - [Lucy Whalley](https://lucydot.github.io), Northumbria University | [link](https://lucydot.github.io/slides/2110_RSENorthum/Selfish_NotSelfish.slides(2)#/) |
+| 11:45 | break | - |
+| 12:00 | Flash presentations | - |
+| 12:45 | Break-out discussion tables and lunch | - |
 
 The organising team for this event are: [Craig Warren](https://www.northumbria.ac.uk/about-us/our-staff/w/craig-warren/) (MCE), [Rahul Sharma](https://es.linkedin.com/in/rahul-sharma-737075b2) (MPEE), [Richard Morton](https://www.northumbria.ac.uk/about-us/our-staff/m/richard-morton/) (MPEE) and [Lucy Whalley](https://lucydot.github.io) (MPEE). 
 
