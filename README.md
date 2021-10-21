@@ -50,7 +50,7 @@ Presentations must be on a single (unanimated) slide, or web-browser based (for 
 
 ## 🏛️ Where is it? 
 
-The Hedley Suite (4th floor of Sanderson building), Northumbria University.
+The Hedley Suite (4th floor of Sandyford building), Northumbria University.
 
 ## ✏️ Sign me up! 
 
