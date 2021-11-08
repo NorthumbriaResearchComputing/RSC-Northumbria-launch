@@ -29,7 +29,7 @@ This event has been financially supported by the [Software Sustainability Instit
 | 11:00 | break |
 |11:15 | Some selfish and not-so-selfish reasons for sharing your code - [Lucy Whalley](https://lucydot.github.io), Northumbria University | [link](https://lucydot.github.io/slides/2110_RSENorthum/Selfish_NotSelfish.slides(2)#/) |
 | 11:45 | break | - |
-| 12:00 | Flash presentations | - |
+| 12:00 | Flash presentations | [link](./Flash_presentations.pdf)|
 | 12:45 | Break-out discussion tables and lunch | - |
 
 The organising team for this event are: [Craig Warren](https://www.northumbria.ac.uk/about-us/our-staff/w/craig-warren/) (MCE), [Rahul Sharma](https://es.linkedin.com/in/rahul-sharma-737075b2) (MPEE), [Richard Morton](https://www.northumbria.ac.uk/about-us/our-staff/m/richard-morton/) (MPEE) and [Lucy Whalley](https://lucydot.github.io) (MPEE). 
